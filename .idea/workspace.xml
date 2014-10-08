@@ -2,17 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3cddc7e-3f3c-4bca-b98a-b7fc2c7d9154" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-all-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_all_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\Config.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\MemorySupport.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\VMThread.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\VMThreadFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\ordinaryjava\JavaThread.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\ordinaryjava\JavaThreadFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\platformsupport\ordinaryjava\UnsafeMemorySupport.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\facade\MicroVM.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\facade\MicroVMClient.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\ConstantPool.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\DoubleBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\FloatBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\FuncBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\HasObjRef.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\IRefBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\IntBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\InterpreterFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\InterpreterStack.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\InterpreterThread.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\MicroVMInternalTypes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\OpHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\RefBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\StackBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\StructBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\TagRef64Box.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\ThreadBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\ThreadStackManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\TrapManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\TrapResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\ValueBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\VoidBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\itpr\WrapperBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\AddressQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\AlignOf.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\Allocator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\Collector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\GlobalMemory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\HeaderUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\Heap.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\MemConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\MemUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\MemoryManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\Mutator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\SizeOf.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\Space.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\StackMemory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\TypeSizes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\bumppointer\RewindableBumpPointerAllocator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\los\FreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\los\LargeObjectSpace.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\scanning\MemoryDataScanner.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\scanning\ObjectMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\scanning\RefFieldHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\simpleimmix\SimpleImmixCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\simpleimmix\SimpleImmixDefragMutator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\simpleimmix\SimpleImmixHeap.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\simpleimmix\SimpleImmixMutator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\src\uvm\refimpl\mem\simpleimmix\SimpleImmixSpace.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\DumbClient.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\MicroVMHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\TestMicroVMRefImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\TestMicroVMRefImplGC.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\TestMicroVMRefImplRedef.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\TestMicroVMRefImplSimple.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\TestTrunc.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\mem\TestGlobalMemory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\mem\los\TestFreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\mem\simpleimmix\TestSimpleImmixHeap.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Adam\Source\Repos\microvm-cisl\test\uvm\refimpl\mem\simpleimmix\TestSimpleImmixHeapWithLargerHeap.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="microvm-refimpl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +104,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WriterTestUtils.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WriterTestUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/uvm/ir/binary/WriterTestUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77835953" vertical-offset="13" max-vertical-offset="969">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="969">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uvm/util/ErrorUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CFG.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/uvm/CFG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,7 +161,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -97,8 +176,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,6 +194,46 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="microvm-refimpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microvm-cisl" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microvm-refimpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microvm-cisl" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ir" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microvm-refimpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microvm-cisl" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uvm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -338,6 +457,21 @@
       <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -356,21 +490,6 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="1">
@@ -398,11 +517,12 @@
       <workItem from="1412780114917" duration="95000" />
       <workItem from="1412780230523" duration="96000" />
       <workItem from="1412780327640" duration="256000" />
+      <workItem from="1412780642705" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447000" />
+    <option name="totallyTimeSpent" value="709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -413,6 +533,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,9 +550,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -471,6 +591,22 @@
     <entry file="file://$PROJECT_DIR$/test/uvm/ir/binary/WriterTestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="969">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/BasicBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/uvm/ir/binary/WriterTestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="969">
           <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
@@ -488,15 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uvm/refimpl/facade/MicroVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27701148" vertical-offset="14" max-vertical-offset="1700">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -504,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,10 +642,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/ifunc/IFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1367816" vertical-offset="0" max-vertical-offset="870">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/GlobalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15632184" vertical-offset="0" max-vertical-offset="870">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/uvm/ir/binary/ConstantWriteThenParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07816092" vertical-offset="0" max-vertical-offset="870">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/Bundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.055172414" vertical-offset="184" max-vertical-offset="1615">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/uvm/ir/binary/WriterTestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77835953" vertical-offset="13" max-vertical-offset="969">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="969">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/util/ErrorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uvm/CFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
